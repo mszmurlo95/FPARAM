@@ -5,8 +5,8 @@
 //  Created by Matt Szmurlo on 5/30/24.
 //
 
-#ifndef Foo_h
-#define Foo_h
+#ifndef Foo_H
+#define Foo_H
 
 
 class Foo

@@ -1,5 +1,5 @@
 #include <catch2/catch_all.hpp>
-#include "Foo.h"
+#include "FPARAM.h"
 #include <string>
 
 TEST_CASE("Testing sphere_volume computes", "[sphere_volume]")

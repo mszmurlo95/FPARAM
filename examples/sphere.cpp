@@ -7,7 +7,7 @@
 
 #include <iostream>
 #include <string.h>
-#include "../src/Foo.h"
+#include "../src/FPARAM.h"
 
 
 int main() {
