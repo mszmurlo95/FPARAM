@@ -10,9 +10,9 @@ The parameterization library can be installed using git clone https://github.com
 
 
 To use this library
-
+```
 #include <FPARAM.h>
-
+```
 
 
 

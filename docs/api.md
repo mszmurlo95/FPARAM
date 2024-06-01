@@ -5,37 +5,37 @@ Foo class
 
 ### Foo Constructor
 
-        **Description:**
-        Foo is the base class for all Foo functions.
+**Description:**
+Foo is the base class for all Foo functions.
 
-        **Syntax:**
+**Syntax:**
 
-        Foo foo(radius)
+Foo foo(radius)
 
-        **Parameters:**
+**Parameters:**
 
-        radius: double(default 0). Used to set radius.
+radius: double(default 0). Used to set radius.
         
 
 
 ### foo.sphere_volume()
 
-        **Description**
+**Description**
 
-        gets volume of sphere
+gets volume of sphere
 
-        **Syntax:**
+**Syntax:**
 
-        foo.sphere_volume()
+foo.sphere_volume()
 
-        **Parameters:**
+**Parameters:**
 
-        none
+none
 
-        **Returns:**
+**Returns:**
 
-        - double sphere_volume() will return the volume of a sphere given the radius.
-        - double sphere_volume() will return -1 for radius values that should be positive.
+- double sphere_volume() will return the volume of a sphere given the radius.
+- double sphere_volume() will return -1 for radius values that should be positive.
 
 
 
@@ -43,10 +43,10 @@ Foo class
 Example:
 --------
 
+```
 #include <iostream>
 #include <string.h>
 #include <FPARAM.h>
-
 
 int main() {
     double radius{};
@@ -73,3 +73,4 @@ int main() {
 
     $return 0;
 }
+```
