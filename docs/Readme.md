@@ -6,7 +6,7 @@ Calculates complex (yet entirely fictitious) Foo parameterizations.
 Usage
 -----
 
-**installing** 
+**Installing** 
 
 The parameterization library can be installed using git clone https://github.com/mszmurlo95/FPARAM.git
 
